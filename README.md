@@ -1,5 +1,6 @@
 # 🔬 Experiment 8 – NumPy Fundamentals & Array Operations
 
+A practical implementation of NumPy fundamentals demonstrating efficient numerical computation and array manipulation techniques in Python.
 ---
 
 ## 📘 Course Information
